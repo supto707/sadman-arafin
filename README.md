@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadman Arefin</h1>
-<h3 align="center">A junior frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supto707&label=Profile%20views&color=0e75b6&style=flat" alt="supto707" /> </p>
 
